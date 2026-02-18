@@ -121,6 +121,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 ## Projects interested in ZKML
 
 ![ZKML ecosystem by SevenX ventures](./zkml-ecosystem.jpeg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarihotmart2023-rgb%2Fawesome-zkml.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarihotmart2023-rgb%2Fawesome-zkml?ref=badge_shield)
 
 - [Axiom](https://twitter.com/axiom_xyz) - Axiom provides smart contracts trustless access to all on-chain data and arbitrary expressive compute over it. Like GPUs do for CPUs, Axiom augments blockchain consensus with zero-knowledge proofs
 - [0xPARC](https://0xparc.org/) - The 0xPARC Foundation promotes application-level innovation on Ethereum and other decentralized platforms
@@ -160,3 +161,7 @@ Decision tree for a use case that would use ZKML -> Intersection of {needs priva
 - Privacy
   - Decentralized Kaggle: proof that model has greater than x% accuracy on some test data without revealing weights
   - Privacy-preserving inference: medical diagnostics on private patient data get fed into the model and the sensitive inference (i.e. cancer test result) gets sent to the patient. ([vCNN paper, page 2/16](https://eprint.iacr.org/2020/584.pdf))
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarihotmart2023-rgb%2Fawesome-zkml.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarihotmart2023-rgb%2Fawesome-zkml?ref=badge_large)
